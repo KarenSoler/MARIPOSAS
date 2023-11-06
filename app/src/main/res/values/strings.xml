@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MARIPOSAS</string>
+    <!--Principal-->
+    <string name="ivMariposa">Mariposa</string>
+    <string name="tvBienvenida">Bienvenido a Caligo</string>
+    <string name="btnIniciar">Ingresar</string>
+
+    <!--Main-->
+    <string name="tvTitulo">Registro de Mariposas</string>
+    <string name="etNombreMariposa">Nombre de la Mariposa</string>
+    <string name="rgEspecie">Especie</string>
+    <string name="rbMariposa">Mariposa</string>
+    <string name="rbGusano">Gusano</string>
+    <string name="btnRegistrar">Registrar</string>
+
+    <!--Resultado-->
+    <string name="tvDatos">Datos Registrados</string>
+    <string name="tvNombre">Nombre registrado</string>
+    <string name="tvtotalPago">Total a pagar</string>
+</resources>
